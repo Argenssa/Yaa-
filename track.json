@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Больше не буду",
+        "author": [
+            "Тринадцать карат",
+            "Три дня дождя"
+        ],
+        "genre": "альтернативный рок",
+        "img": "https://drive.google.com/uc?export=download&id=1rZniCGfQ_XP9NyLcV9hC4sqXEeJrFLVJ",
+        "track": "https://drive.google.com/uc?export=download&id=1hxz-uY3IhmJsgNHe4Ardr7vqGK1ZX_5x"
+    },
+    {
+        "id": 2,
+        "name": "Ты",
+        "author": [
+            "Тринадцать карат"
+        ],
+        "genre": "альтернативный рок",
+        "img": "https://drive.google.com/uc?export=download&id=1URvx7uJz57ZwwFfg4qEG36fV4Jtj7jib",
+        "track": "https://drive.google.com/uc?export=download&id=1OrliSOrm6zzv2U5KZGRqPbZ7T0wUHyh7"
+    },
+    {
+        "id": 3,
+        "name": "11:11",
+        "author": [
+            "Кишлак"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1x-vgtzVjxXpcjKL7zGjXmWy0p-h3mz8O",
+        "track": "https://drive.google.com/uc?export=download&id=1xsAcORcLD41WvJkcgRPqO0znGJrlwTvd"
+    },
+    {
+        "id": 4,
+        "name": "Слезы",
+        "author": [
+            "Кишлак"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1AgvVa85GD0C6egCWXgW9Wnwu2sLsiOs2",
+        "track": "https://drive.google.com/uc?export=download&id=1wRmyvHWlIR_kKmeaD4jBI96OF6rH-hBg"
+    },
+    {
+        "id": 5,
+        "name": "Апноэ",
+        "author": [
+            "Кишлак"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1D1QOXs8ZbRcFzVGOEHgUKWRQxGme_RfD",
+        "track": "https://drive.google.com/uc?export=download&id=1PBWMy_AdfzEz5kjCfwhJsNRk1_2bzPu5"
+    },
+    {
+        "id": 6,
+        "name": "Болею тобой",
+        "author": [
+            "Кишлак"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=11VYOnouiKnpPEBaR6_vCUNSIq2YxVsiL",
+        "track": "https://drive.google.com/uc?export=download&id=1PBWMy_AdfzEz5kjCfwhJsNRk1_2bzPu5"
+    },
+    {
+        "id": 7,
+        "name": "Луна любит землю по кругу",
+        "author": [
+            "ЗоХа"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1e7LB9PMaWbk1ud8HjdHQn8Trv5LZrh1M",
+        "track": "https://drive.google.com/uc?export=download&id=1Da6RwUtVePgDpbIReGTj61b3843qLaFw"
+    },
+    {
+        "id": 8,
+        "name": "По ветру",
+        "author": [
+            "ЗоХа"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1e7LB9PMaWbk1ud8HjdHQn8Trv5LZrh1M",
+        "track": "https://drive.google.com/uc?export=download&id=1RqlHFmWdrOxKIWZmiDYntvOOnc7cbhQv"
+    },
+    {
+        "id": 9,
+        "name": "Она",
+        "author": [
+            "ЗоХа"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1YjlXBoCffEZx149b00J4I1UxX16VAF5x",
+        "track": "https://drive.google.com/uc?export=download&id=1RqlHFmWdrOxKIWZmiDYntvOOnc7cbhQv"
+    },
+    {
+        "id": 10,
+        "name": "Стану лучшим для тебя",
+        "author": [
+            "ЗоХа"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1vcj6eAnujOh2FhRZrE1BVz4ZSPS0pSMY",
+        "track": "https://drive.google.com/uc?export=download&id=1RqlHFmWdrOxKIWZmiDYntvOOnc7cbhQv"
+    },
+    {
+        "id": 11,
+        "name": "Химия",
+        "author": [
+            "Мукка"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1Cpev7Jcj0n7R5cdwyCx7j3vU7b88k9AJ",
+        "track": "https://drive.google.com/uc?export=download&id=1lqNY4XAbUkMJqoxmLMWRAiQriM83pTzA"
+    },
+    {
+        "id": 12,
+        "name": "Таблетка",
+        "author": [
+            "Мукка"
+        ],
+        "genre": "поп-панк",
+        "img": "https://drive.google.com/uc?export=download&id=1bLBo8VF274dKifz_XoBoLWOuIqz4XI_j",
+        "track": "https://drive.google.com/uc?export=download&id=1-Mn7zxfB-iJduFREtnYNJF3AnpFuBFJI"
+    }
+]
